@@ -1,0 +1,20 @@
+{
+  "name": "berate",
+  "version": "0.0.1",
+  "description": "Hubot script to insult or berate people in the channel",
+  "main": "berate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/hubot-berate.git"
+  },
+  "author": "John Fawcett",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e6403794b09d2d4b50f818df02d2219f64529bf5",
+  "dependencies": {
+    "request": "~2.21.0"
+  }
+}
